@@ -52,6 +52,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+#### 🔗 Web3 / Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=flat&logo=metamask&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
 #### ⚙ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -71,13 +78,6 @@
 #### 🎮 Game & 3D Dev
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-
-#### 🔗 Web3 / Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=flat&logo=metamask&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
 
 ---
 
