@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Web3 & Blockchain (Solidity, Hardhat, Metamask, Ethereum)**
 - 💬 Ask me about **MERN Stack, Django, Firebase, Flutter, Web3, and Data Science**
 - 🧠 Always learning, building, and exploring real-world projects.
-- 📫 Reach me at **dhruvsingh33@gmail.com**
+- 📫 Reach me at **dhruvsingh5003@gmail.com**
 - 🌐 Portfolio: [dhruvsingh33.netlify.app](https://dhruvsingh33.netlify.app/)
 
 ---
