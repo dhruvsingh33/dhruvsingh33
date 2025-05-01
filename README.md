@@ -89,7 +89,7 @@
 | **TaskMaster** | MERN Stack | A full-stack task manager app with login, CRUD, and reminders |
 | **Blogify** | Django + PostgreSQL | Full-stack blog platform with dashboard and user auth |
 | **RentWise** | React + Firebase | Online Rent Management App with admin panel |
-| **MyPortfolio** | HTML, CSS, JS | Personal portfolio website hosted on Netlify |
+| **My 3D-Portfolio** | React, Three.js | Personal portfolio 3D website hosted on Netlify |
 
 ---
 
