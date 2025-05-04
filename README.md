@@ -83,15 +83,13 @@
 
 ### 📌 Featured Projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **DeVote** | Solidity, Hardhat, React | A decentralized voting DApp on Ethereum blockchain with Metamask integration |
-| **TaskMaster** | MERN Stack | A full-stack task manager app with login, CRUD, and reminders |
-| **Blogify** | Django + PostgreSQL | Full-stack blog platform with dashboard and user auth |
-| **RentWise** | React + Firebase | Online Rent Management App with admin panel |
-| **My 3D-Portfolio** | React, Three.js | Personal portfolio 3D website hosted on Netlify |
-
----
+| Project | Tech Stack | Key Features | Demo | Code |
+|---------|------------|--------------|------|------|
+| **AI SaaS Dashboard** | React, Node.js, MongoDB, Stripe, OpenAI | JWT Auth, Subscription Payments, 3D Animations | [Live](https://) | [GitHub](https://) |
+| **Uber Clone** | React Native, Firebase, Google Maps, Socket.io | Live Driver Tracking, Expo EAS Build, Offline Mode | [APK](https://) | [GitHub](https://) |
+| **NFT Marketplace** | Solidity, Hardhat, React, Ethers.js, IPFS | Polygon Deployment, Gas-Optimized Smart Contracts | [Live](https://) | [GitHub](https://) |
+| **Decentralized Twitter** | Solidity, Lens Protocol, Next.js, GraphQL | Web3 Social Media, Decentralized Posts | [Live](https://) | [GitHub](https://) |
+| **AI Job Board** | Next.js, Python (Flask), MongoDB, Scikit-learn | Resume Matching, SSR, Role-Based Filtering | [Live](https://) | [GitHub](https://) |
 
 ### 📈 GitHub Stats
 
