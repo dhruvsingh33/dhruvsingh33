@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Dhruv Singh</h1>
-<h3 align="center">A Passionate Full Stack Developer | Web3 Explorer | Tech Enthusiast</h3>
+<h3 align="center">A Passionate Full Stack Developer | Web3 Explorer | FinTech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Web3+%7C+Blockchain+Enthusiast;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m currently working on Web, App & Blockchain Projects.
+- 👨‍💻 I’m currently working on Web, App, Blockchain and FinTech Projects.
 - 🌱 I’m currently learning **Web3 & Blockchain (Solidity, Hardhat, Metamask, Ethereum)**
 - 💬 Ask me about **MERN Stack, Django, Firebase, Flutter, Web3, and Data Science**
 - 🧠 Always learning, building, and exploring real-world projects.
