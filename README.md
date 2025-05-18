@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 I’m currently working on Web, App, Blockchain and FinTech Projects.
-- 🌱 I’m currently learning **Web3 & Blockchain (Solidity, Hardhat, Metamask, Ethereum)**
+- 🌱 I’m currently Developing Projects in **Web3 & Blockchain (Solidity, Hardhat, Metamask, Ethereum)**
 - 💬 Ask me about **MERN Stack, Django, Firebase, Flutter, Web3, and Data Science**
 - 🧠 Always learning, building, and exploring real-world projects.
 - 📫 Reach me at **dhruvsingh5003@gmail.com**
