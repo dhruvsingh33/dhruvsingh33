@@ -22,6 +22,14 @@
 
 ### 🛠️ Tech Stack
 
+#### 🔗 Web3 / Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=flat&logo=metamask&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
+
 #### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -51,13 +59,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-#### 🔗 Web3 / Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=flat&logo=metamask&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
 
 #### ⚙ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
