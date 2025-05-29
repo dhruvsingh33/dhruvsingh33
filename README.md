@@ -82,16 +82,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Tech Stack | Key Features | Demo | Code |
-|---------|------------|--------------|------|------|
-| **AI SaaS Dashboard** | React, Node.js, MongoDB, Stripe, OpenAI | JWT Auth, Subscription Payments, 3D Animations | [Live](https://) | [GitHub](https://) |
-| **Uber Clone** | React Native, Firebase, Google Maps, Socket.io | Live Driver Tracking, Expo EAS Build, Offline Mode | [APK](https://) | [GitHub](https://) |
-| **NFT Marketplace** | Solidity, Hardhat, React, Ethers.js, IPFS | Polygon Deployment, Gas-Optimized Smart Contracts | [Live](https://) | [GitHub](https://) |
-| **Decentralized Twitter** | Solidity, Lens Protocol, Next.js, GraphQL | Web3 Social Media, Decentralized Posts | [Live](https://) | [GitHub](https://) |
-| **AI Job Board** | Next.js, Python (Flask), MongoDB, Scikit-learn | Resume Matching, SSR, Role-Based Filtering | [Live](https://) | [GitHub](https://) |
-
 ### 📈 GitHub Stats
 
 <p align="center">
