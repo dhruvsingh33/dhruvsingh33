@@ -11,10 +11,8 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m currently working on Web, App, Blockchain and FinTech Projects.
-- 💬 Ask me about **Web3, MERN Stack, Django, Firebase, Flutter, and Data Science**
-- 📫 Reach me at **dhruvsingh5003@gmail.com**
-- 🌐 Portfolio: [dhruvsingh33.netlify.app](https://dhruvsingh33.netlify.app/)
+- 👨‍💻 Web, App & Blockchain Developer | FinTech Enthusiast | 💬 Ask me about **Web3, MERN Stack, Django, Firebase, Flutter, and Data Science**
+- 📫 Reach me at **dhruvsingh5003@gmail.com** | 🌐 Portfolio: [dhruvsingh33.netlify.app](https://dhruvsingh33.netlify.app/)
 
 ---
 
