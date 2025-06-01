@@ -76,7 +76,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-   <img src="https://your-vercel-domain.vercel.app/api?username=dhruvsingh33&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-phi-six-16.vercel.app/api?username=dhruvsingh33&show_icons=true&theme=radical&cache_bust=1" height="180"/>
 </p>
 
 ---
