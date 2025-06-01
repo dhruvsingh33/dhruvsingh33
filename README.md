@@ -20,7 +20,7 @@
 
 ---
 
-<p align="center">
+
   ### 🛠️ Tech Stack
 
   #### 🔗 Web3 / Blockchain
@@ -68,14 +68,14 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-</p>
+
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvsingh33&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsingh33&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvsingh33&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsingh33&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
