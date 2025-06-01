@@ -13,7 +13,7 @@
 
 - 👨‍💻 I’m currently working on Web, App, Blockchain and FinTech Projects.
 - 🌱 I’m currently Developing Projects in **Web3 & Blockchain (Solidity, Hardhat, Metamask, Ethereum)**
-- 💬 Ask me about **MERN Stack, Django, Firebase, Flutter, Web3, and Data Science**
+- 💬 Ask me about **Web3, MERN Stack, Django, Firebase, Flutter, and Data Science**
 - 🧠 Always learning, building, and exploring real-world projects.
 - 📫 Reach me at **dhruvsingh5003@gmail.com**
 - 🌐 Portfolio: [dhruvsingh33.netlify.app](https://dhruvsingh33.netlify.app/)
