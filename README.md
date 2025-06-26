@@ -4,7 +4,17 @@
 <h3 align="center">A Passionate Full Stack Developer | Web3 FinTech Enthusiast | Blockchain Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;+FinTech+%7C+Web3+%7C+Blockchain+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com
+         ?font=Fira+Code
+         &size=22
+         &pause=1000
+         &color=F7F7F7        <!-- optional: change text colour -->
+         &center=true
+         &vCenter=true
+         &width=850           <!-- was 435 -->
+         &lines=Full+Stack+Developer;FinTech+%7C+Web3+%7C+Blockchain+Developer;Open+Source+Contributor"
+    alt="Typing SVG" />
 </p>
 
 ---
