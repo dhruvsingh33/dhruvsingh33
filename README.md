@@ -14,7 +14,7 @@
 - 👨‍💻 Web, App & Blockchain Developer | FinTech Enthusiast | 💬 Ask me about **Web3, MERN Stack, Django, Firebase, Flutter**
 - 📫 Reach me at **dhruvsingh5003@gmail.com** | 🌐 Portfolio: [dhruvsingh33.netlify.app](https://dhruvsingh33.netlify.app/)
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-singh-93871026b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/dhruv-rajpoot-93871026b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://x.com/drv_singh_"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
   <a href="mailto:dhruvsingh33@gmail.com"><img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dhruvsingh33.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
