@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">Hi 👋, I'm Dhruv Singh</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Rajpoot</h1>
 <h3 align="center">A Passionate Blockchain Developer | Full Stack Developer | Web3 FinTech Enthusiast</h3>
 
 <p align="center">
